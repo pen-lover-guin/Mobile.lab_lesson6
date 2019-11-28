@@ -1,2 +1,2 @@
-include ':app', ':googlemaps'
+include ':app', ':googlemaps', ':yandexmaps', ':yandexmaps2', ':yandexmap'
 rootProject.name='lab_lesson6'
